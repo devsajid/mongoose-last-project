@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"inventory-management","dependencies":{"body-parser":{"version":"1.20.1"},"colors":{"version":"1.4.0"},"cors":{"version":"2.8.5"},"dotenv":{"version":"16.0.2"},"express":{"version":"4.18.2"},"mongoose":{"version":"6.6.2"},"validator":{"version":"13.7.0"}}}
